@@ -2,7 +2,7 @@
 
 |    TOPIC   |    MIH                        |    JMA                        |
 |:--------------:|:----------------------------------:|:----------------------------------:|
-|     Data Flow Diagram      |               Lecture 1(https://youtu.be/pNz8w8Cm-xM?si=Gd58R39dX1mhXkyx)                |              Lecture 2(https://www.youtube.com/watch?v=jnx2kwWonCI)              |
+|     Data Flow Diagram      |               [Lecture 1](https://youtu.be/pNz8w8Cm-xM?si=Gd58R39dX1mhXkyx)  <br/>  [Lecture 2](https://www.youtube.com/watch?v=jnx2kwWonCI)             |                           |
 |     Row 2      |               Row 2                 |               Row 2                 |
 |     Row 3      |               Row 3                 |               Row 3                 |
 |     Row 4      |               Row 4                 |               Row 4                 |
