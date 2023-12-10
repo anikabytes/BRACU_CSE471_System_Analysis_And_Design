@@ -6,7 +6,7 @@
 ## Midterm 
 | **Topic**           | **MIH**                                             |
 | :-----------------: | :-------------------------------------------------: |
-| Activity Diagram    | <a href="https://youtu.be/slRVWzhjnS0" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/DyjN40CVMEo" style="color: #3366cc; text-decoration: none;">Lecture 2</a> |
+| Activity Diagram    | <a href="https://youtu.be/slRVWzhjnS0" style="color: red; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/DyjN40CVMEo" style="color: #3366cc; text-decoration: none;">Lecture 2</a> |
 | Sequence Diagram    | <a href="https://youtu.be/JbVdCtboXF4" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/WoQnWuWzwO4" style="color: #3366cc; text-decoration: none;">Lecture 2</a> | 
 
 ## Final 
