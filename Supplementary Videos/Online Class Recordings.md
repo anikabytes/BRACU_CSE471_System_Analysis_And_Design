@@ -1,26 +1,20 @@
-# Online Class Recordings (Fall'23)
+# Online Class Recordings (Fall '23)
 
-[Midterm](##Midterm) <br/>
-[Final](##Final)
-
+[**Midterm**](#midterm) <br/>
+[**Final**](#final)
 
 ## Midterm 
-| TOPIC | MIH |
-| :--------------:| :--------------: |
-| Activity Diagram | [Lecture 1]( https://youtu.be/slRVWzhjnS0) <br/> [Lecture 2]( https://youtu.be/DyjN40CVMEo) |
-| Sequence Diagram | [Lecture 1](https://youtu.be/JbVdCtboXF4) <br/> [Lecture 2](https://youtu.be/WoQnWuWzwO4) | 
+| **Topic**           | **MIH**                                             |
+| :-----------------: | :-------------------------------------------------: |
+| Activity Diagram    | <a href="https://youtu.be/slRVWzhjnS0" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/DyjN40CVMEo" style="color: #3366cc; text-decoration: none;">Lecture 2</a> |
+| Sequence Diagram    | <a href="https://youtu.be/JbVdCtboXF4" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/WoQnWuWzwO4" style="color: #3366cc; text-decoration: none;">Lecture 2</a> | 
+
 ## Final 
 
-|    TOPIC   |    MIH                        |    JMA                        |
-|:--------------:|:----------------------------------:|:----------------------------------:|
-|     Data Flow Diagram      |               [Lecture 1](https://youtu.be/pNz8w8Cm-xM?si=Gd58R39dX1mhXkyx)  <br/>  [Lecture 2](https://www.youtube.com/watch?v=jnx2kwWonCI)             |          [Lecture 1](https://youtu.be/n2c6zf3BAwU)                 |
-|     Component Diagram     |               [Lecture 1](https://www.youtube.com/watch?v=Q0YUI7uleS0)    <br/> [Lecture 2](https://www.youtube.com/watch?v=9know5cyDKU)           |               [Lecture 1](https://youtu.be/24_Ttfb1XPU)                 |
-|     Program Design     |              [Lecture 1](https://www.youtube.com/watch?v=XkEFXzp5d7I)                 |               [Lecture 1]( https://youtu.be/PNdRSr89FD8)                 |
-|     Data Store      |                [Lecture 1](https://www.youtube.com/watch?v=KF6oKXtO1-o)    <br/> [Lecture 2](https://youtu.be/EQ-M00dHk2Q?feature=shared)                 |               [Lecture 1]()                 |
-|     UI Design     |              [Lecture 1](https://youtu.be/iTSjzZ-A3dA?feature=shared)                 |               [Lecture 1]()                 |
-
-
-
-
-
-
+| **Topic**           | **MIH**                                             | **JMA**                                             |
+| :-------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+| Data Flow Diagram   | <a href="https://youtu.be/pNz8w8Cm-xM?si=Gd58R39dX1mhXkyx" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://www.youtube.com/watch?v=jnx2kwWonCI" style="color: #3366cc; text-decoration: none;">Lecture 2</a> | <a href="https://youtu.be/n2c6zf3BAwU" style="color: #3366cc; text-decoration: none;">Lecture 1</a> |
+| Component Diagram   | <a href="https://www.youtube.com/watch?v=Q0YUI7uleS0" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://www.youtube.com/watch?v=9know5cyDKU" style="color: #3366cc; text-decoration: none;">Lecture 2</a> | <a href="https://youtu.be/24_Ttfb1XPU" style="color: #3366cc; text-decoration: none;">Lecture 1</a> |
+| Program Design      | <a href="https://www.youtube.com/watch?v=XkEFXzp5d7I" style="color: #3366cc; text-decoration: none;">Lecture 1</a> | <a href="https://youtu.be/PNdRSr89FD8" style="color: #3366cc; text-decoration: none;">Lecture 1</a> |
+| Data Store          | <a href="https://www.youtube.com/watch?v=KF6oKXtO1-o" style="color: #3366cc; text-decoration: none;">Lecture 1</a> <br/> <a href="https://youtu.be/EQ-M00dHk2Q?feature=shared" style="color: #3366cc; text-decoration: none;">Lecture 2</a> | <a href="#" style="color: #3366cc; text-decoration: none;">Lecture 1</a> |
+| UI Design           | <a href="https://youtu.be/iTSjzZ-A3dA?feature=shared" style="color: #3366cc; text-decoration: none;">Lecture 1</a> | <a href="#" style="color: #3366cc; text-decoration: none;">Lecture 1</a> |
