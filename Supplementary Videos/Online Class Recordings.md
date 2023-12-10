@@ -1,5 +1,14 @@
 # Online Class Recordings (Fall'23)
 
+[Midterm](##Midterm)
+[Final](##Final)
+
+
+## Midterm 
+| TOPIC | MIH |
+| :--------------:| :--------------: |
+| Activity Diagram | [Lecture 1]( https://youtu.be/slRVWzhjnS0) <br/> [Lecture 2]( https://youtu.be/DyjN40CVMEo) |
+| Sequence Diagram | [Lecture 1](https://youtu.be/JbVdCtboXF4) <br/> [Lecture 2](https://youtu.be/WoQnWuWzwO4) | 
 ## Final 
 
 |    TOPIC   |    MIH                        |    JMA                        |
