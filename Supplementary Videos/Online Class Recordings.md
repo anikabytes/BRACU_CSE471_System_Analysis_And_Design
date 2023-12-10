@@ -4,6 +4,6 @@
 
 ## Data Flow Diagram 
 
-MIH ---> Lecture 1() <br\>
-         Lecture 2 () <br\>
-JMA ---> Lecture 1 () <br\>
+MIH ---> Lecture 1() <br/>
+         Lecture 2 () <br/>
+JMA ---> Lecture 1 () <br/>
